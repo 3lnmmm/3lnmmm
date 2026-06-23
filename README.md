@@ -3,8 +3,8 @@
 
 ```cplusplus
 synchronicity
-tt   $   @mm6alan
-ig   $   @mm6alan
+tt   $   @3lnmmm
+ig   $   @3lnmmm
 web  $   mm6.lol
 ```
 &zwnj; 
